@@ -1,4 +1,4 @@
-# VueHtml
+# VueHtml (不支持IE)
 
 #### Introduction
 使用 RequireJS + Vue 创建的项目
