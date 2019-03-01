@@ -4,6 +4,7 @@
 使用 RequireJS + Vue 创建的项目
 - 无需使用脚手架 (vue-cli)
 - 无需编译
+- test Pull requests
 
 #### Provider
 - Vue, VueRouter, Vuex, Axios
