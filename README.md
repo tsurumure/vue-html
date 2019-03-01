@@ -6,7 +6,7 @@
 - 无需编译
 - test Pull requests
 - test test test
-- from qq accout test
+- from qq accout test x2
 
 #### Provider
 - Vue, VueRouter, Vuex, Axios
