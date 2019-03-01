@@ -5,6 +5,7 @@
 - 无需使用脚手架 (vue-cli)
 - 无需编译
 - test Pull requests
+- test test test
 
 #### Provider
 - Vue, VueRouter, Vuex, Axios
